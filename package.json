@@ -1,0 +1,29 @@
+{
+  "name": "expresiones-regulares",
+  "version": "1.0.0",
+  "description": "proyecto 2 de compiladores",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanesGarcia/expresiones_regulares.git"
+  },
+  "author": "juan esteban cubillos garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanesGarcia/expresiones_regulares/issues"
+  },
+  "homepage": "https://github.com/juanesGarcia/expresiones_regulares#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "jquey": "0.0.1-security",
+    "popper.js": "^1.16.1"
+  }
+}
